@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+ 
 struct IPv4 {
     unsigned int version;
     unsigned int ihl;
