@@ -4,7 +4,7 @@ union U {
     float f;
     unsigned char c[4];
 };
-
+ 
 int main() {
     union U u;
     u.f = 3.14;
