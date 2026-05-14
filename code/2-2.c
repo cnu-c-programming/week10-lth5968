@@ -5,7 +5,7 @@ struct access_rights {
     unsigned char write : 1;
     unsigned char read : 1;
 };
-
+ 
 union file_access_rights {
     unsigned int int_value;
     struct access_rights rights;
