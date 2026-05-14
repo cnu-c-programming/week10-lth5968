@@ -5,7 +5,7 @@ struct S1 {
     int i;
     long long l;
 };
-
+ 
 struct S2 {
     char c;
     long long l;
